@@ -10,20 +10,29 @@ Learning Circle: Folktales, storytelling, oral history.
 The brief: To create an engaging Learning Circle around the Summer Programming focus of storytelling. 
 
 Using information primarily from:
+
 Telling Stories that Matter: A Toolkit for Exploring your Potential as a Storyteller
 https://www.storytellingcenter.net/wp-content/uploads/2018/12/StoryTelling_Toolkit_Letter_Size.pdf?x65433&x61774
+
 &
+
 Stories or instructional videos coming from 
 https://www.youtube.com/user/StorytellingFestival
 
 Goal:
+
 To piece together a 4 part course that is available late Summer. 
-For example, July 15/22/29 and August 5th on Thursday afternoons or nights. 
+
+For example, July 14/21/28 and August 4th on Thursday afternoons or nights. 
+
 Each class lasting 1-2 hours. 
 
 Beth had mentioned possible connections she knew in the community that might be interested:
+
 Kirnan Sirah – One of the authors of Telling Stories that Matter, and President of the International Storytelling Center (ISC)
+
 Danielle Pritchett – GPL Librarian - Has an event on July 8th concerning storytelling. 
+
 Kimmie from Central (Central library employee, Stacey Reid is supervisor) – Might still be around and willing to help (is currently looking for jobs).
 
 Just brainstorming how this would work --- targets to hit, goals to meet, etc. 
@@ -67,6 +76,7 @@ Pre-class #1 information. (This sounds odd, but is actually standard in online c
 -	Provide access to the Toolkit document
 -	Read pages 1-12, this covers the introduction of why you should study storytelling, and also the interviewing process of storytelling. 
 -	(Optional homework, though encouraged). Conduct an interview with someone using the information you learned from the reading. Please bring to class notes, information you gathered, and an explanation of the process you followed including anything you learned. 
+
 Class #1. 
 	Introductions
 	Brief explanation of Learning Circles, the format, general structure of the class
@@ -76,6 +86,7 @@ Dive into the coursework – I give brief overview of the reading we were suppos
 Play Video from Youtube X
 Call for recitals of homework or stories
 Exit with expected reading/homework assignments for Class #2 
+
 Class #2.
 	Introduction of new members if necessary
 Dive into the coursework – I give brief overview of the reading we were supposed to do, ask for feedback, thoughts, comments.
@@ -83,12 +94,14 @@ Play Video from Youtube X
 Possible Guest Speaker ?
 Call for recitals of homework or stories
 Exit with expected reading/homework assignments for Class #3 
+
 Class #3.
 Dive into the coursework – I give brief overview of the reading we were supposed to do, ask for feedback, thoughts, comments.
 Play Video from Youtube X
 Possible Guest Speaker?
 Call for recitals of homework or stories
 Exit with expected reading/homework assignments for Class #4 
+
 Class #4.
 -	Dive into the coursework – I give brief overview of the reading we were supposed to do, ask for feedback, thoughts, comments.
 -	Play Video from Youtube X
