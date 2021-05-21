@@ -6,3 +6,5 @@ This covers the introduction of why you should study storytelling, and also the 
 Telling Stories that Matter: A Toolkit for Exploring your Potential as a Storyteller  
 
 Optional homework, though encouraged: Conduct an interview with someone using the information you learned from the reading. Please share with the class during Class #1 things you experienced or learned that you would like to share. 
+
+[External Link] (https://www.storytellingcenter.net/wp-content/uploads/2018/12/StoryTelling_Toolkit_Letter_Size.pdf?x65433&x61774)
