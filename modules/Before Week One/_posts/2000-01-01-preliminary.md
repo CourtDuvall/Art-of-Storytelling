@@ -7,3 +7,6 @@ This covers the introduction of why you should study storytelling, and also the 
 
 Optional homework, though encouraged: Conduct an interview with someone using the information you learned from the reading. Please share with the class during Class #1 things you experienced or learned that you would like to share. 
 
+Kiran Singh Sirah, president of the International Storytelling Center, video about telling Stories that Matter (11 minutes) 
+
+<iframe width="800" height="500" src="https://www.youtube.com/embed/1bPbflwIN3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
